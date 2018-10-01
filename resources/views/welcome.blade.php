@@ -61,7 +61,6 @@
                 text-decoration: none;
                 text-transform: uppercase;
             }
-
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -78,6 +77,7 @@
                 <div class="links">
                     <a href="http://erp.plusoft.co">Tareas Vue.js Pendiente</a>
                     <a href="http://erp.plusoft.co/">Balquimia - ERP..</a>
+                    <a href="http://erp.plusoft.co/">Enlace de ejemplo</a>
                 </div>
             </div>
         </div>
