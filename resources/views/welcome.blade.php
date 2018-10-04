@@ -76,7 +76,7 @@
 
                 <div class="links">
                     <a href="http://tareasvue.plusoft.co">Tareas Vue.js Pendiente</a>
-                    <a href="http://erp.balquimia.plusoft.co/">Balquimia - ERP..</a>
+                    <a href="http://balquimia.plusoft.co/">Balquimia - ERP...</a>
 
                 </div>
             </div>
