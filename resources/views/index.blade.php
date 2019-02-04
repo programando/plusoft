@@ -76,8 +76,6 @@ canvas {
        width: 900px;
        position: absolute;
        margin-left: 15%;
-
-
   }
 
         .links > a {
@@ -109,6 +107,8 @@ canvas {
                     <a href="http://balquimia.plusoft.co/">Balquimia - ERP</a>
                     <a href="http://cripack.plusoft.co/">Cripack - ERP</a>
                     <a href="http://webs.plusoft.co/">Mis recursos</a>
+                    <a href="http://englishcards.plusoft.co/">English Flash Cards</a>
+
                 </div>
 
 
