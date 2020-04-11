@@ -105,10 +105,7 @@ canvas {
                 <div class="links">
                     <a href="http://tareasvue.plusoft.co">Tareas Vue.js</a>
                     <a href="http://balquimia.plusoft.co/">Balquimia - ERP</a>
-                    <a href="http://cripack.plusoft.co/">Cripack - ERP</a>
                     <a href="http://webs.plusoft.co/">Mis recursos</a>
-                    <a href="http://englishcards.plusoft.co/">English Flash Cards</a>
-
                 </div>
 
 
